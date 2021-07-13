@@ -1,0 +1,9 @@
+.icons-container{
+    display: flex;
+    flex-direction: column;
+    font-size: 5px;
+    color: black;
+    height: 5vh;
+    padding: 1.5rem;
+    text-align: right;
+}
